@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="help">Help</string>
+    <string name="add_city">Select City</string>
+    <string name="enter_zip">Enter Zip:</string>
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+</resources>
